@@ -1,3 +1,3 @@
 <?php
-  echo "Hello Staging";
+  echo "Hello Staging changed";
 ?>
